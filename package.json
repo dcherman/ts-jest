@@ -72,7 +72,7 @@
     "jest": ">=22 <24"
   },
   "optionalDependencies": {
-    "babel-core": "^6.0.0 || ^7.0.0-0"
+    "babel-core": "7.0.0-bridge.0"
   },
   "devDependencies": {
     "@commitlint/cli": "7.x",
